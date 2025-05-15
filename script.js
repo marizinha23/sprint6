@@ -1,0 +1,1 @@
+console.loge(9+1)
